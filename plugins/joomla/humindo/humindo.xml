@@ -21,6 +21,6 @@
     </languages>
 
     <updateservers>
-            <server type="extension" name="humindo Update Site">https://github.com/humindo/public/blob/master/joomla/humindo/manifest.xml</server>
+            <server type="extension" name="humindo Update Site">https://github.com/humindo/public/tree/master/plugins/joomla/humindo/manifest.xml</server>
     </updateservers>
 </extension>

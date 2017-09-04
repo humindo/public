@@ -6,7 +6,7 @@
     <version>1.0.0</version>
     <infourl title="humindo">https://www.humindo.com</infourl>
     <downloads>
-        <downloadurl type="full" format="zip">https://github.com/usersnap/public/blob/master/joomla/usersnap/usersnap.zip</downloadurl>
+        <downloadurl type="full" format="zip">https://github.com/humindo/public/tree/master/plugins/joomla/humindo/humindo.zip</downloadurl>
     </downloads>
     <tags>
         <tag>stable</tag>
